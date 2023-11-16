@@ -1,0 +1,15 @@
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\bin\Debug\MuzikCalar.exe.config
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\bin\Debug\MuzikCalar.exe
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\bin\Debug\MuzikCalar.pdb
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\bin\Debug\Interop.WMPLib.dll
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\obj\Debug\MuzikCalar.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\obj\Debug\Interop.WMPLib.dll
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\obj\Debug\MuzikCalar.csproj.ResolveComReference.cache
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\obj\Debug\MuzikCalar.Form1.resources
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\obj\Debug\MuzikCalar.Properties.Resources.resources
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\obj\Debug\MuzikCalar.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\obj\Debug\MuzikCalar.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\obj\Debug\MuzikCalar.exe
+C:\Users\legen\source\repos\MuzikCalar\MuzikCalar\obj\Debug\MuzikCalar.pdb
